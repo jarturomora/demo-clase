@@ -1,3 +1,4 @@
 # demo-clase
 
-Repositorio de prueba - Jose Arturo
+Repositorio de prueba - Jose Arturo.
+o.O
