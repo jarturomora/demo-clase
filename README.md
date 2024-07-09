@@ -1,3 +1,3 @@
 # demo-clase
 
-Repositorio de prueba - Jose Arturo
+Repositorio de pruebas - Mrpablo98 - PataPalo
