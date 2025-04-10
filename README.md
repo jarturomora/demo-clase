@@ -1,4 +1,4 @@
 # demo-clase
 
-* Arturo
-* Turron
+Arturo
+Turron
